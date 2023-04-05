@@ -15,5 +15,5 @@ Run `npm install --force` to resolve conflic version
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
 Open [http://localhost:3000/location](http://localhost:3000/location) to view map.
