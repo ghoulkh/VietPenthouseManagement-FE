@@ -10,7 +10,7 @@ In the project directory, you can run:
 ### `npm install`
 
 Install library to build app
-Run `npm install --force` to resolve conflic version 
+Run `npm install --force` to resolve conflict version 
 
 ### `npm start`
 
